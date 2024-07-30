@@ -1,0 +1,22 @@
+.ceiling-design{
+    display: flex;
+    gap: 17px;
+    margin: 10px;
+    align-items: center;
+    box-sizing: 5px;
+    position: relative;
+    
+}
+.ceiling-design p{
+    color: black;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 19px;
+
+}
+img{
+    border-radius: 7px;
+}
+.box:hover{
+    transform: scale(1.1);
+}

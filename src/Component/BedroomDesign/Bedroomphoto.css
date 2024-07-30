@@ -1,0 +1,19 @@
+.bedroomphoto{
+    width: 400px;
+    display: flex;
+    border-radius: 10px;
+    /* padding: 10px; */
+    margin-bottom: 10px;
+}
+
+.bedaara{
+    font-size: 25px;
+    margin: 20px;
+    padding: 20px;
+
+}
+.bedpic{
+  
+    display: flex;
+    margin: 5px 40px;
+}

@@ -1,0 +1,28 @@
+.imageone{
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.footerone{
+    margin: 1px 40px;   
+}
+.bannerheading{
+    text-align: center;
+    padding: 10px;
+}
+.bannerimgone{
+    display: flex;
+    align-content: center;
+   text-align: center;
+}
+.inputtext{
+    margin-top: 250px;
+    margin-left: -290px;
+    width: 200px;
+    margin-right: 100px;
+    margin-top: 260px;
+    color: black;
+    background-color: #20c997;
+    padding: 10px;
+}

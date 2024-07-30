@@ -1,0 +1,32 @@
+.kidsroom{
+    width: 800px;
+    margin: 10px;
+}
+.kidsroompictitle{
+    display: flex;    
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    padding:15px 0px 0px 0px;
+}
+h4{
+    text-align: center;
+    margin:15px;
+    color: white;
+    background-color: black;
+    padding: 30px;
+}
+h4 h2 u{
+    color: #20c997
+}
+.kids-btn{
+
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 110px;
+    height: 40px;
+    font-size: 17px;
+    background-color: #20c997;
+    font-weight: 600;
+}

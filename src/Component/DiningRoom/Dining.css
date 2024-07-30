@@ -1,0 +1,15 @@
+.diningimgone{
+    width: 400px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;  
+}
+.diningpara{
+    text-align: center;
+    font-size: 22px;
+    padding-bottom:2px;
+    margin: 10px;
+}
+.diningmain {
+    text-align: center;
+}

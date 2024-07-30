@@ -1,0 +1,19 @@
+.me-auto{
+    font-size: 13px;
+    font-weight: 900;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+}
+.me-auto:hover{
+ font-size: 13px;
+}
+.interior-design{
+    font-weight: 600;
+    font-size: 25px;
+    margin-left: -10px;
+}
+.interior-design:hover{
+color:#2e9b8b;
+font-size: 25px;
+}
+
